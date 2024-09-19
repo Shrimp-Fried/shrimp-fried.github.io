@@ -1,7 +1,7 @@
-## Here's a Picture of my Dog
+## Here are some Pictures of my Dog
 
 ### Hazel!!!
-![Hazel!!!](https://github.com/user-attachments/assets/b3400a6e-f6fc-44c1-b83a-50bbefd564d4)
+![Hazel with her duck](https://github.com/user-attachments/assets/4a4f64f5-d0b4-4892-a7fe-575aa6b3dfd4)
 
 ### She used to be so little 💔
 ![Baby Hazel <3](https://github.com/user-attachments/assets/711b9486-7b5c-4423-b545-b3f2d8d770f1)
